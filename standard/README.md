@@ -1,1 +1,21 @@
-# General Ruleset
+# Community Combat Compendium (CCC) 0.1.0
+
+- abab
+- choose to make turn as reaction or not
+- Board is 10*8 spaces big
+- 3 characters each
+- at start of game place characters in your half of the playfield abab (1.) style
+- we have terrain
+  - don't know how the initial state is determined (probably map system)
+- there is no explicit mana or exhaustion, but instead a tech-like resource that can model character-specific systems
+- on non-reactive turns you have the choice to move first, then declare an ability
+  - then the opponent can choose to react or not
+  - if through the reaction of the opponent there are no valid targets anymore the trigger ability is not executed
+- if turn is reaction you can only choose abilities that have faster speed than trigger but you will execute your attack first
+- adjacent = 1 tile square around caller
+- throw dice to determine who get’s to choose who starts
+- health is represented by a maximum of 2 d6
+- healing by default does not exceed max life
+- lingering effects are applied as symbols to the targets interface
+- a character is defeated when they reach 0 health
+- once a player defeated all opposing characters they win
