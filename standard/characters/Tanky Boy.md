@@ -1,6 +1,6 @@
 # Tanky Boy
 **Health**: 11  
-**Movement**: 3  
+**Movement**: 5  
 
 ### General Info
 Tanky Boy can only react to damage taken to himself not damage inflicted to allies.

@@ -1,6 +1,6 @@
 # I Like Pain
 **Health**: 9  
-**Movement**: 2  
+**Movement**: 4  
 
 ### General
 Has a damage meter that can store up to 6 received damage.

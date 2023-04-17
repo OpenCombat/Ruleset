@@ -1,6 +1,6 @@
 # Speedy Boy
 **Health**: 8  
-**Movement**: 5  
+**Movement**: 6  
 
 ### Celerity
 Tags: passive  

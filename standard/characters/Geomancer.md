@@ -1,6 +1,6 @@
 # Geomancer
 **Health**: 6  
-**Movement**: 3  
+**Movement**: 5  
 
 ### Default Bonk
 Tags: damage, time-interval = 2  

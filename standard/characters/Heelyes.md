@@ -1,6 +1,6 @@
 # Heelyes
 **Health**: 7  
-**Movement**: 4  
+**Movement**: 6  
 
 ### General Info 
 Has mana between 1 and 6. After each turn one is replenished. Starts with 3 mana.
@@ -12,6 +12,7 @@ One enemy on the 8 adjacent tiles get damaged by 1.
 ### Heal ally
 Tags: healing, time-interval = 2  
 Consumes 1 mana. Heals an ally by 2 damage. Cannot be reacted upon by an enemy. Only up to the max health of the ally.
+Range is all 8 adjacent tiles.
 
 ### Heal yourself
 Tags: healing, time-interval = 3  
