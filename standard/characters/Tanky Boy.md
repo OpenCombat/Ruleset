@@ -7,11 +7,12 @@ Tanky Boy can only react to damage taken to himself not damage inflicted to alli
 
 ### Default Bonk
 Tags: damage, time-interval = 4  
-Damages one enemy by 2 damage on one of the 4 cardinal directions. 1 range
+Damages one enemy by 1 damage on one of the 4 cardinal directions. 1 range
 
 ### Guard Counter
 Tags: only-reaction, time-interval = 0  
 Halfs the taken damage from the attacker and inflicts 1 damage back to the attacker.
+So you take the following damage floor(n / 2) → 3 damage would then inflict 1
 
 ### Interpose
 Tags: time-interval = 3  

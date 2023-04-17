@@ -1,4 +1,4 @@
-# Community Combat Compendium (CCC) 0.1.0
+# Community Combat Compendium (CCC) 0.1.1
 
 - abab
 - choose to make turn as reaction or not

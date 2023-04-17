@@ -8,6 +8,7 @@ Has a damage meter that can store up to 6 received damage.
 ### Default Bonk
 Tags: damage, time-interval = 3  
 One enemy on the 8 adjacent tiles get damaged by 1 and damages himself by 1 damage.
+If no enemy is present you can inflict self damage with this.
 
 ### The Pull
 Tags: damage, time-interval = 3, movement  
